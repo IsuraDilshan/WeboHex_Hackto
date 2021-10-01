@@ -1,6 +1,6 @@
 # WeboHex_Hackto
 This website is created as a single page website.
-### Project Maintainers
+### Project Maintainer
 Isura Dilshan
 ### Technology Stack
  :heart: HTML\
