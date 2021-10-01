@@ -3,8 +3,8 @@ This website is created as a single page website.
 ### Project Maintainers
 Isura Dilshan
 ### Technology Stack
- HTML:heart:__
- CSS:yellow_heart:__
+ HTML:heart:\
+ CSS:yellow_heart:\
  JS:purple_heart:
 ## In this October Let's contribute for Hacktoberfest 2021 :star:
 Join us in developing the site WeboHex
