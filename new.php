@@ -6,11 +6,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if (empty($_POST["name"])) {
     $nameErr = "Name is required";
   } else {
-    $name = test_input($_POST["name"]);
-    if (!preg_match("/^[a-zA-Z-' ]*$/",$name)) {
-      $nameErr = "Only letters and white space allowed";
-    }
-  }
+    	$name = test_input($_POST["name"]);
+    		if (!preg_match("/^[a-zA-Z-' ]*$/",$name)) {
+      			$nameErr = "Only letters and white space allowed";
+    		}
+         }
+         }
+  
   
   if (empty($_POST["tele"])) {
     $teleErr = "Telephone Number required";
@@ -26,6 +28,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     {
     echo "Your Address :" .$select; 
     }
+    }
+    
 
     if (isset($_POST['submit'])) {
         if(isset($_POST['radio']))
@@ -36,8 +40,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if (isset($_POST['news'])){
             echo $_POST['news']; 
             }
+    }
 
-
-
-}
 ?>
