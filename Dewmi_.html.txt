@@ -6,7 +6,7 @@
 <body>
 
     <h1> Dewmi Hathurusingha </h1>  
-    <p> I'm dewmi hathurusingha. I'm following Management Information system degree program. </p>
+    <p> Hacking is an attempt to exploit a computer.Simply put, it is the unathorised acess tp or contol over computer network security system fot some purpose </p>
 
 </body>
 </html>
