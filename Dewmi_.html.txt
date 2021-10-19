@@ -6,7 +6,7 @@
 <body>
 
     <h1> Dewmi Hathurusingha </h1>  
-    <p> Hacking is an attempt to exploit a computer.Simply put, it is the unathorised acess tp or contol over computer network security system fot some purpose </p>
+    <p> Sri Lanka have network inside a country but If we want to acess other countries network, we want go beyond the country </p>
 
 </body>
 </html>
