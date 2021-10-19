@@ -5,7 +5,8 @@
 </head>
 <body>
 
-    <h1>Dewmi Hathurusingha </h1>  
+    <h1> Dewmi Hathurusingha </h1>  
+    <p> I'm dewmi hathurusingha. I'm following Management Information system degree program. </p>
 
 </body>
 </html>
